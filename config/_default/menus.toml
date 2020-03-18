@@ -9,24 +9,44 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "What's New"
+  url = "#news"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "IJCAI2020 Tutorial"
+  url = "tutorials/ijcai2020"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "AAAI2020 Workshop"
+  url = "workshops/aaai2020"
   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+#[[main]]
+#  name = "Workshops"
+#  url = "workshops/"
+#  weight = 50
+
+#[[main]]
+#  name = "Tutorials"
+#  url = "tutorials/"
+#  weight = 60
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+#
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
+#
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
