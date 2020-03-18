@@ -22,20 +22,20 @@ date_format = "Jan 2006"
   organization = "IJCAI"
   organization_url = "https://www.ijcai20.org/call-for-tutorials.html"
   title = "Tutorial - Multimodal Learning in K-12 Education: Promise, Progress and Challenges"
-  url = ""
+  url = "tutorials/ijcai2020"
   date_start = "2020-07-11"
   date_end = ""
-  description = "Organizing Committees: Zitao Liu (TAL Education Group), Songfan Yang (TAL Education Group), Jiliang Tang (Michigan State University), Neil Heffernan (Worcester Polytechnic Institute), Rose Luckin (University College London)"
+  description = "Organized by Zitao Liu (TAL Education Group), Songfan Yang (TAL Education Group), Jiliang Tang (Michigan State University), Neil Heffernan (Worcester Polytechnic Institute), Rose Luckin (University College London)"
 
 
 [[item]]
   organization = "AAAI"
   organization_url = "https://aaai.org/Conferences/AAAI-20/ws20workshops/#ws03"
   title = "Workshop - Artificial Intelligence for Education"
-  url = ""
+  url = "workshops/aaai2020"
   date_start = "2020-02-08"
   date_end = ""
-  description = "Organizing Committees: Jiliang Tang (Michigan State University), Zitao Liu (TAL Education Group), Kaitlin Torphy (Michigan State University), Ken Frank (Michigan State University), Zhiwei Wang (Michigan State University)"
+  description = "Organized by Jiliang Tang (Michigan State University), Zitao Liu (TAL Education Group), Kaitlin Torphy (Michigan State University), Ken Frank (Michigan State University), Zhiwei Wang (Michigan State University)"
 
 #[[item]]
 #  organization = "edX"
