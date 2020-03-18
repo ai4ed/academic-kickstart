@@ -22,16 +22,11 @@ menu:
 ---
 
 
-## Tutorial Motivation
+## Motivation & Description
 
 Recently we have seen a rapid rise in the amount of education data available through the digitization of education. This huge amount of education data usually exhibits in a mixture form of images, videos, speech, texts, etc. It is crucial to consider data from different modalities to build successful applications in AI in education (AIED). This tutorial targets AI researchers and practitioners who are interested in applying state-of-the-art multimodal machine learning techniques to tackle some of the hard-core AIED tasks. These include tasks such as automatic short answer grading, student assessment, class quality assurance, knowledge tracing, etc. 
 
-
-## Tutorial Description
-
-Artificial Intelligence (AI) has dramatically transformed a variety of domains. However, education, a crucial component of our society still requires extensive human effort from in-class teachers and students and remains a relatively under-explored domain. Nowadays, the increasingly digitalized education tools have produced an unprecedented amount of data that provides us with invaluable opportunities in making significant progress in K-12 education. Educational data usually comes in the form of various modalities, such as visual, vocal, language, etc. In order for AI to make progress in understanding the real educational scenarios around us, it needs to be able to interpret such multimodal signals together. Multimodal machine learning aims to build models that can process and relate information from multiple modalities. 
-
-Recent years have witnessed growing efforts from AI research community devoted to advancing our education. It is a vibrant multi-disciplinary field of increasing importance and with extraordinary potential. Although it is still in the early stage, promising results have been achieved in solving various critical problems in education. In this tutorial, we will comprehensively review recent developments of applying multimodal learning approaches in AIED, with a focus on those classroom multimodal data. Beyond introducing the recent advances of computer vision, speech, natural language processing in education respectively, we will discuss how to combine data from different modalities and build AI driven educational applications on top of these data. More specifically, we will talk about (1) **representation learning**; (2) **algorithmic assessment & evaluation**; and (3) **personalized feedback**. Participants will learn about recent trends and emerging challenges in this topic, representative tools and learning resources to obtain ready-to-use models, and how related models and techniques benefit real-world AIED applications.
+In this tutorial, we will comprehensively review recent developments of applying multimodal learning approaches in AIED, with a focus on those classroom multimodal data. Beyond introducing the recent advances of computer vision, speech, natural language processing in education respectively, we will discuss how to combine data from different modalities and build AI driven educational applications on top of these data. More specifically, we will talk about (1) **representation learning**; (2) **algorithmic assessment & evaluation**; and (3) **personalized feedback**. Participants will learn about recent trends and emerging challenges in this topic, representative tools and learning resources to obtain ready-to-use models, and how related models and techniques benefit real-world AIED applications.
 
 ## Tentative Outline
 
