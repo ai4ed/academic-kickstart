@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges, Yokohama, Japan
+linktitle: KDD2020 Tutorial on Recent Advances in Multimodal Educational Data Mining in K-12 Education, San Diego, CA, USA
 summary: Organized by Zitao Liu (TAL Education Group), Songfan Yang (TAL Education Group), Jiliang Tang (Michigan State University), Neil Heffernan (Worcester Polytechnic Institute), Rose Luckin (University College London).
 weight: 1
 
 # Page metadata.
-title: IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges
-date: "2020-03-18"
-lastmod: "2020-03-18"
+title: KDD2020 Tutorial on Recent Advances in Multimodal Educational Data Mining in K-12 Education
+date: "2020-05-15"
+lastmod: "2020-05-15"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -16,26 +16,37 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  test:
+  kdd2020:
     name: Overview
     weight: 1
 ---
 
 
-## Motivation & Description
+## Abstract
 
-Recently we have seen a rapid rise in the amount of education data available through the digitization of education. This huge amount of education data usually exhibits in a mixture form of images, videos, speech, texts, etc. It is crucial to consider data from different modalities to build successful applications in AI in education (AIED). This tutorial targets AI researchers and practitioners who are interested in applying state-of-the-art multimodal machine learning techniques to tackle some of the hard-core AIED tasks. These include tasks such as automatic short answer grading, student assessment, class quality assurance, knowledge tracing, etc. 
+Recently we have seen a rapid rise in the amount of education data available through the digitization of education. This huge amount of education data usually exhibits in a mixture form of images, videos, speech, texts, etc. It is crucial to consider data from different modalities to build successful applications in AI in education (AIED). This tutorial targets AI researchers and practitioners who are interested in applying state-of-the-art multimodal machine learning techniques to tackle some of the hard-core AIED tasks. These include tasks such as automatic short answer grading, student assessment, class quality assurance, knowledge tracing, etc.
 
-In this tutorial, we will comprehensively review recent developments of applying multimodal learning approaches in AIED, with a focus on those classroom multimodal data. Beyond introducing the recent advances of computer vision, speech, natural language processing in education respectively, we will discuss how to combine data from different modalities and build AI driven educational applications on top of these data. More specifically, we will talk about (1) **representation learning**; (2) **algorithmic assessment & evaluation**; and (3) **personalized feedback**. Participants will learn about recent trends and emerging challenges in this topic, representative tools and learning resources to obtain ready-to-use models, and how related models and techniques benefit real-world AIED applications.
+In this tutorial, we will comprehensively review recent developments of applying multimodal learning approaches in AIED, with a focus on those classroom multimodal data. Beyond introducing the recent advances of computer vision, speech, natural language processing in education respectively, we will discuss how to combine data from different modalities and build AI driven educational applications on top of these data. More specifically, we will talk about (1) representation learning; (2) algorithmic assessment & evaluation; and (3) personalized feedback. Participants will learn about recent trends and emerging challenges in this topic, representative tools and learning resources to obtain ready-to-use models, and how related models and techniques benefit real-world AIED applications.
+
+
+## Social Impact
+
+Recent years have witnessed growing efforts from AI research community devoted to advancing our education. It is a vibrant multi-disciplinary field of increasing importance and with extraordinary potential. AI is becoming a valuable tool for teachers in many ways and teachers are able to get insights from results of AI driven applications. Although it is still in the early stage, promising results have been achieved in solving various critical problems in education. The potential AIED applications is able to free up time for teachers, ensure students receive the timely assistance, and allow students to learn independently. It very well may help us to rethink and restructure how we approach compulsory education in the 21st century in a way that is beneficial to all parties.
+
+
+## Intended Audience
+
+All the researchers and practitioners are welcome. The audiences are assumed to have basic knowledge in data mining and machine learning. Specially, those who have devoted to advanced methodologies in speech, computer vision, natural language processing and machine learning, etc., will be encouraged to participate to learn the new challenges when applying real-world educational scenarios. This tutorial will shed light on the opportunities of building successful education application with the recent advanced algorithms of learning from different modalities and encourages AI researchers from different domains to understand and work together to tackle some of the most exciting and challenging AIED problems. This tutorial aims to be composed of a good balance between the introductory and advanced material (50% for beginners and 50% for intermediate and advanced).
+
 
 ## Tentative Outline
 
 This tutorial presents a systematic overview of frontier approaches to multimodal learning in AIED. We will begin with introducing the main research problems, and motivate this topic with several real-world applications. Then, we will introduce methods for learning embedding for each domain and approaches to align embeddings across domains. Specifically, we will discuss how comprehensive information such as linguistic contexts and probabilistic soft logic rules can be leveraged to improve the quality of the embedding, and how to align embeddings in different domains by strategies such as retrofitting, joint learning, and self-supervised learning. Moreover, we will exemplify the use of these embeddings in applications of various areas, and will outline emerging research challenges that may catalyze further investigation on this topic. 
 
 
-We would like to have a `half-day 210-minute` tutorial with the following detailed contents.
+We would like to have a `180-minute` tutorial with the following detailed contents.
 
-### Part I: The Future of Education for the 21st Century [25 mins]
+### Part I: The Future of Education for the 21st Century [15 mins]
 
 In this part, we will give an overview of the AIED research and provide sufficient background and potential opportunities of AIED to the general audience. In particular, we would like to cover the followings:
 
@@ -45,7 +56,7 @@ In this part, we will give an overview of the AIED research and provide sufficie
 
 
 
-### Part II: AI in K-12 Education [50 mins]
+### Part II: AI in K-12 Education [30 mins]
 
 In this part, we will specifically focus on AI in K-12 education and discuss the following topics:
 

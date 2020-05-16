@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "KDD"
+  organization_url = "https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-tutorials"
+  title = "Tutorial - Recent Advances in Multimodal Educational Data Mining in K-12 Education"
+  url = "tutorials/kdd2020"
+  date_start = "2020-08-23"
+  date_end = ""
+  description = "Organized by Zitao Liu (TAL Education Group), Songfan Yang (TAL Education Group), Jiliang Tang (Michigan State University), Neil Heffernan (Worcester Polytechnic Institute), Rose Luckin (University College London)"
+
+
 [[item]]
   organization = "IJCAI"
   organization_url = "https://www.ijcai20.org/call-for-tutorials.html"

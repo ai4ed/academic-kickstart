@@ -14,14 +14,19 @@
   weight = 20
 
 [[main]]
+  name = "KDD2020 Tutorial"
+  url = "tutorials/kdd2020"
+  weight = 30
+
+[[main]]
   name = "IJCAI2020 Tutorial"
   url = "tutorials/ijcai2020"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "AAAI2020 Workshop"
   url = "workshops/aaai2020"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "Workshops"
